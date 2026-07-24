@@ -53,9 +53,9 @@ $$\text{PWM Duty} = 1000 + \left( \frac{\text{ADC Value} \times 1000}{4095} \rig
 ## Build Instructions
 
 1. **Clone the repository:**
-```bash
-git clone [https://github.com/mohizmni/Position-Control-Using-Potentiometer.git]
-```
+    ```bash
+    git clone [https://github.com/mohizmni/Position-Control-Using-Potentiometer.git]
+    ```
 2. **Import the Project workspace into STM32CubeIDE.**
   
 3. **Build the target(Ctrl + B)to compile source binaries.**
